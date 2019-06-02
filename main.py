@@ -10,6 +10,8 @@ sensor = dht.DHT11(Pin(14))
 wifi.connect()
 
 SERVER = "mqtt.thingspeak.com"
+CHANNEL_ID = "ID DO CANAL Thingspeak"
+WRITE_API_KEY = "Chave Do Canal Thingspeak"
 
 client = MQTTClient("umqtt_client", SERVER)
 
