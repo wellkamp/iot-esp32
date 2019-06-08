@@ -39,11 +39,3 @@ A plataforma utilizada foi o [thingspeak](https://thingspeak.com/) que teve a fu
 ### Comentários sobre os Códigos
 
 
-
-Observações:
-
-No Resumo das Funcionalidades podem ser utilizadas imagens.
-Podem ser incluídos links para sites externos
-Quanto mais detalhes forem apresentados melhor
-Observem que este texto é escrito utilizando o arquivo README.md
-Nos Comentários sobre os Códigos devem ser registrados os aspectos mais interessantes da prototipação, bibliotecas selecionadas, etc.
