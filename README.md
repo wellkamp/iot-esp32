@@ -12,6 +12,7 @@
 ## Tutoriais utilizados:
    
    [Primeiro tutorial](https://randomnerdtutorials.com/esp32-esp8266-dht11-dht22-micropython-temperature-humidity-sensor/)
+   
    [Segundo tutorial](https://mjrobot.org/2018/06/13/iot-feito-facil-esp-micropython-mqtt-thingspeak/)
    
 ## Resumo das Funcionalidades:
