@@ -39,6 +39,7 @@ A plataforma utilizada foi o [thingspeak](https://thingspeak.com/) que teve a fu
 
 ### Comentários sobre os Códigos
 Ao utilizar o ambiente de desenvolvimento do upycraft é possivel manipular várias das suas bibliotecas. Vou comentar um pouco sobre as mesmas. 
+
 ```
 import network
 import dht
@@ -46,12 +47,13 @@ from machine import Pin
 from time import sleep
 from umqtt.simple import MQTTClient
 ```
-Biblioteca "network": Possui as funções que auxiliam no gerenciamento da rede.
-Biblioteca "wifi": Função criada para conectar a rede wifi.
-Biblioteca "dht": Possui as funções de medir a temperatura e umidade.
-Biblioteca "machine": Possui as funções que controlam os pinos da esp.
-Biblioteca "time": Possui as função de temporizador.
-Biblioteca "umqtt": Possui as funções para conexão utilizando o protocolo MQTT.
+
+Biblioteca "network": Possui as funções que auxiliam no gerenciamento da rede.<p>
+Biblioteca "wifi": Função criada para conectar a rede wifi.<p>
+Biblioteca "dht": Possui as funções de medir a temperatura e umidade.<p>
+Biblioteca "machine": Possui as funções que controlam os pinos da esp.<p>
+Biblioteca "time": Possui as função de temporizador.<p>
+Biblioteca "umqtt": Possui as funções para conexão utilizando o protocolo MQTT.<p>
 
 Ao utilizar essas bibliotecas o código se torna mais simples de entender. 
 Na parte de conexão com thingspeak só necessario passar para variáveis o servidor do thingspeak, a ID do canal e a chave de escrita do mesmo.
