@@ -23,13 +23,19 @@ Neste projeto o embarcado possui a função de monitorar a temperatura e umidade
 #### Componentes utilizados:
 [Esp32](https://www.espressif.com/en/products/hardware/esp32/overview)
 
-![esp32](https://user-images.githubusercontent.com/37946947/59139488-9a9c0b80-8969-11e9-99b7-4068a2560d80.jpg)
+<img src="https://user-images.githubusercontent.com/37946947/59139488-9a9c0b80-8969-11e9-99b7-4068a2560d80.jpg"
+width="300" height="300" />
 
 Sensor DHT11
-![Dht11](https://user-images.githubusercontent.com/37946947/59138527-01b6c180-8964-11e9-9311-4a5b48f5fc2a.jpg)
+
+<img src="https://user-images.githubusercontent.com/37946947/59138527-01b6c180-8964-11e9-9311-4a5b48f5fc2a.jpg"
+width="300" height="300" />
+
 Resistor de 4.7k ilustrado no esquemático abaixo.
 
-![dht_esp32_bb-1](https://user-images.githubusercontent.com/37946947/59139262-53f9e180-8968-11e9-9cf6-65029f9d5bc8.png)
+<img src="https://user-images.githubusercontent.com/37946947/59139262-53f9e180-8968-11e9-9cf6-65029f9d5bc8.png"
+width="500" height="500" />
+
 
 
 
